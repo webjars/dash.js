@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>dash.js</artifactId>
-    <version>1.4</version>
+    <version>1.4-SNAPSHOT</version>
     <name>Dash.js</name>
     <description>WebJar for dash.js</description>
     <url>http://webjars.org</url>
